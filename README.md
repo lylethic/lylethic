@@ -15,7 +15,7 @@
 | **Education** | Information Technology Graduate                       |
 | **Focus**     | Backend Development · API Design · System Integration |
 
-> 1+ year of experience building RESTful APIs with **C# / ASP.NET Core**.  
+> 1+ year of experience building RESTful APIs with **C# / ASP.NET Core** and **Node/ExpressJS**.  
 > Interested in clean architecture, scalable systems, and AI-integrated applications.
 
 ---
@@ -55,6 +55,31 @@
 ---
 
 ### Featured Projects
+
+#### Ordering Food Management System in Restaurant
+
+_Graduation Thesis · A comprehensive restaurant management and ordering platform built with Next.js + TypeScript (Client) and Node.js + Express + Prisma (Backend), supporting 4 main roles with dedicated features._
+
+- **Tech:** 
+```
+Client
+- ⚛️ Next.js 16 + React 19 + TypeScript
+- ⚡ App Router - File-based routing in Next.js
+- 🎨 Tailwind CSS - Responsive styling
+- 🎬 Framer Motion - Animations
+- 🌙 next-themes - Light/dark theme support
+- 🌍 Multi-language - Vietnamese & English support
+Backend
+- 🟢 Node.js + Express.js
+- 🗄️ Prisma ORM - Database management
+- 🐘 PostgreSQL (Supabase)
+- 🔐 JWT Authentication - Secure authentication
+- 📚 Swagger/OpenAPI - API documentation
+- ✅ Zod - Schema validation
+```
+- **Features:** User intent recognition with LLM Fallback mechanism for intelligent conversational handling
+
+---
 
 #### AT_ASSISTANT — AI Desktop Chatbot
 
