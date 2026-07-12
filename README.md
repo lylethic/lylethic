@@ -2,9 +2,10 @@
 
 ---
 
-<a href="#" target="_blank">
-  <img src="./svg/lylethic.png" width="300" alt="https://github.com/lylethic" />
+<a href="https://github.com/lylethic" target="_blank">
+  <img src="./svg/lylethic.png" width="300" alt="lylethic" style="border-radius: 50%;" />
 </a>
+
 ---
 
 ### About Me
