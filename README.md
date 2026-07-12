@@ -71,10 +71,12 @@ Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 </tr></table>
 
 ---
+
 <h3 align="left">🛠 AI Tools: 🛠</h3>
 <table><tr><td align="center"><a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="./svg/claude-color.svg" alt="claude" width="40" height="40" /></a></td>
 <td align="center"><a href="https://gemini.google.com/app" target="_blank" rel="noreferrer"><img src="./svg/gemini-color.svg" alt="html5" width="40" height="40" /></a></td>
 <td align="center"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="./svg/codex-color.svg" alt="html5" width="40" height="40" /></a></td></tr></table>
+
 ---
 
 
@@ -93,7 +95,6 @@ Responsibilities:
 - Designed and optimized database schemas and queries using Sequelize ORM with PostgreSQL.
 
 
-
 #### `Bimparts.vn` — Industrial Parts E-Commerce Platform (May 202Jul 2025 - Present)
 
 **Description:** A B2C e-commerce platform for BIM BIM Joint Stock Company, specializing in 10,000+ SKUs of forklift, tractor, and heavy machinery spare parts across Vietnam. Served as primary Back-End Developer with Frontend support responsibilities.
@@ -108,6 +109,8 @@ Responsibilities:
 > Designed and optimized the relational database schema for product, inventory, order, and customer data; applied indexing strategies to support high-volume catalog queries.
 
 > Applied technical performance improvements — query optimization and caching strategies — contributing to faster page load times and improved SEO-readiness of product pages.
+
+---
 
 ### Personal Projects
 
@@ -134,6 +137,7 @@ Backend
 - 📚 Swagger/OpenAPI - API documentation
 - ✅ Zod - Schema validation
 ```
+
 **Features:** 
 
 > Product categories management
@@ -188,6 +192,7 @@ Backend
 >  **Reporting & Analytics:** Offers a data-driven approach with productivity dashboards and automated Excel report generation.
 
 >  **Media & Asset Control:** Integrates Cloudinary for scalable cloud-based media storage and management.
+
 ---
 
 ### Connect
