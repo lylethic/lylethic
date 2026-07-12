@@ -8,12 +8,10 @@
 ---
 
 ### About Me
-```
-Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
+
+> Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
 and CRM projects. Skilled in building interactive user interfaces, integrating RESTful APIs, and optimizing application performance. Seeking a Fresher Web Developer role to apply React expertise to production-grade products and grow within a professional development team.
 
-Interested in clean architecture, scalable systems, and AI-integrated applications.
-```
 |               |                                                       |
 | :------------ | :---------------------------------------------------- |
 | **Location**  | Binh Minh, Dong Nai, Vietnam | Go Vap, GCMC           |
@@ -69,11 +67,15 @@ Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 <td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./svg/bootstrap.png" alt="bootstrap" width="40" height="40" /></a></td>
 <td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a></td>
 <td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a></td>
-<td align="center"><a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="./svg/claude-color.svg" alt="claude" width="40" height="40" /></a></td>
-<td align="center"><a href="https://gemini.google.com/app" target="_blank" rel="noreferrer"><img src="./svg/gemini-color.svg" alt="html5" width="40" height="40" /></a></td>
-<td align="center"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="./svg/codex-color.svg" alt="html5" width="40" height="40" /></a></td>
 </tr></table>
+
 ---
+<h3 align="left">🛠 AI Tools: 🛠</h3>
+<table><tr><td align="center"><a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="./svg/claude-color.svg" alt="claude" width="40" height="40" /></a></td>
+<td align="center"><a href="https://gemini.google.com/app" target="_blank" rel="noreferrer"><img src="./svg/gemini-color.svg" alt="html5" width="40" height="40" /></a></td>
+<td align="center"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="./svg/codex-color.svg" alt="html5" width="40" height="40" /></a></td></tr></table>
+---
+
 
 ### Projects
 
