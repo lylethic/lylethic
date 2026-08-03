@@ -92,7 +92,9 @@ integrated customer source tracking from multiple social platforms (Facebook, Za
 - Designed and optimized database schemas and queries using Sequelize ORM with PostgreSQL.
 
 
-#### `Bimparts.vn` — Industrial Parts E-Commerce Platform (May 202Jul 2025 - Present)
+#### `Bimparts.vn` — Industrial Parts E-Commerce Platform (July 2025 - Present)
+
+<a href="https://bimparts.vn" target="_blank">Link</a>
 
 **Description:** A B2C e-commerce platform for BIM BIM Joint Stock Company, specializing in 10,000+ SKUs of forklift, tractor, and heavy machinery spare parts across Vietnam. Served as primary Back-End Developer with Frontend support responsibilities.
 
@@ -112,10 +114,9 @@ integrated customer source tracking from multiple social platforms (Facebook, Za
 ### Personal Projects
 
 #### `Ruby - Ordering Food Management System in Restaurant`
-<a href="https://github.com/lylethic/order-food.git" target="_blank">
-  <img src="./svg/hyperlink_7537555.png" alt="Link" height="28" width="28" />
-  </a>
-Description: A comprehensive restaurant management and ordering platform built with Next.js + TypeScript (Client) and Node.js + Express + Prisma (Backend), supporting 4 main roles with dedicated features._
+<a href="https://github.com/lylethic/order-food.git" target="_blank"><img src="./svg/hyperlink_7537555.png" alt="Link" height="28" width="28" /></a>
+  
+**Description:** A comprehensive restaurant management and ordering platform built with Next.js + TypeScript (Client) and Node.js + Express + Prisma (Backend), supporting 4 main roles with dedicated features._
 
 **Technologies:** 
 ```
@@ -158,7 +159,9 @@ Backend
 #### `AT_ASSISTANT — AI Desktop Chatbot`
 
 **Description:** AT Assistant is a virtual assistant designed for Windows. You can type in Vietnamese to ask the app to launch applications, search for files, read your Gmail, set reminders, automate repetitive tasks, or control your computer remotely via Telegram. The app is designed for daily use, eliminating the need to memorize complex commands. You simply type or speak what you would like to do.
+
 **Technologies:** Python, FastAPI, LLM (Gemini), Rule-based routing
+
 **Features:** 
 
 > **Smart Shutdown:** Close resource-heavy apps, block entertainment websites, or close all applications except for the ones you need to keep running.
@@ -175,7 +178,9 @@ Backend
 <a href="https://github.com/lylethic/tmsys" target="_blank"><img src="./svg/hyperlink_7537555.png" alt="Link" height="28" width="28" /></a>
 
 **Description:** 🚀 TaskHub - Task Management System | TaskHub (Task Management System) is a professional internal task management system for IT teams. It is built on .NET 8.0 with Clean Architecture to ensure scalability, maintainability, and high performance.
+
 **Technologies:** ASP.NET Core API, PostgreSQL, Hangfire, Docker
+
 **Features:** 
 
 >  **Security & Identity:** Features a secure architecture using JWT and RBAC, complemented by OTP verification and comprehensive user activity tracking.
