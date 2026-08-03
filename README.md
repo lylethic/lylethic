@@ -2,12 +2,6 @@
 
 ---
 
-<a href="https://github.com/lylethic" target="_blank">
-  <img src="./svg/lylethic.png" width="300" alt="lylethic" style="border-radius: 50%;" />
-</a>
-
----
-
 ### About Me
 
 > Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
@@ -15,7 +9,7 @@ and CRM projects. Skilled in building interactive user interfaces, integrating R
 
 |               |                                                       |
 | :------------ | :---------------------------------------------------- |
-| **Location**  | Binh Minh, Dong Nai, Vietnam | Go Vap, GCMC           |
+| **Location**  | Go Vap, GCMC                                          |
 | **Education** | Information Technology Graduated                      |
 | **Focus**     | Backend Development · API Design · System Integration |
 
@@ -84,11 +78,14 @@ Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 
 #### `CRM Platform` — Backend Developer (Node.js/Express.js) (Apr 2026 - Present)
 
-Description: A multi-channel CRM system enabling businesses to manage customers, orders, products, and marketing campaigns, with
+**Description:** A multi-channel CRM system enabling businesses to manage customers, orders, products, and marketing campaigns, with
 integrated customer source tracking from multiple social platforms (Facebook, Zalo, TikTok, X) and real-time notifications.
-Team Size: 7 members (1 PM, 1 BA, 1 Tester, 2 Front-End, 2 Back-End).
-Technologies: ASP.NET Core | C# | SQL Server, Entity Framework Core, Hangfire, RESTful API, NextJS, React Native, Git,..
-Responsibilities:
+
+**Team Size:** 7 members (1 PM, 1 BA, 1 Tester, 2 Front-End, 2 Back-End).
+
+**Technologies:** NodeJs, ExpressJs, Socket.io, OneSignal, RESTful API, NextJS, React Native, Git,..
+
+**Responsibilities:**
 - Developed and maintained RESTful APIs for customer management features, including customer profiles, tagging/classification, and assigned-user tracking.
 - Built customer source integration to track and categorize leads originating from multiple channels (Facebook, Zalo, TikTok, X.com).
 - Implemented Import/Export functionality for customer lists using Excel (ExcelJS/SheetJS), supporting bulk data operations for the sales and marketing teams.
@@ -98,17 +95,17 @@ Responsibilities:
 #### `Bimparts.vn` — Industrial Parts E-Commerce Platform (May 202Jul 2025 - Present)
 
 **Description:** A B2C e-commerce platform for BIM BIM Joint Stock Company, specializing in 10,000+ SKUs of forklift, tractor, and heavy machinery spare parts across Vietnam. Served as primary Back-End Developer with Frontend support responsibilities.
+
 **Team Size:** 10 members (1 PM, 5 Front-End, 4 Back-End).
-**Technologies:** ASP.NET Core, C#, PostgreSQL, Entity Framework Core, Hangfire, RESTful API, Angular, Git,...
+
+**Technologies:** ASP.NET Core, C#, SignalR, PostgreSQL, Entity Framework Core, Hangfire, RESTful API, Angular, Git,...
+
 **Responsibilities:**
 
-> Designed and implemented the product catalog and category management system, handling 10,000+ SKUs with multi-attribute filtering (brand, model compatibility, part type) to support complex B2C search and browsing flows.
-
-> Built RESTful APIs for shopping cart and checkout workflows, including cart persistence, stock validation, and order confirmation logic.
-
-> Designed and optimized the relational database schema for product, inventory, order, and customer data; applied indexing strategies to support high-volume catalog queries.
-
-> Applied technical performance improvements — query optimization and caching strategies — contributing to faster page load times and improved SEO-readiness of product pages.
+- Designed and implemented the product catalog and category management system, handling 10,000+ SKUs with multi-attribute filtering (brand, model compatibility, part type) to support complex B2C search and browsing flows.
+- Built RESTful APIs for shopping cart and checkout workflows, including cart persistence, stock validation, and order confirmation logic.
+- Designed and optimized the relational database schema for product, inventory, order, and customer data; applied indexing strategies to support high-volume catalog queries.
+- Applied technical performance improvements — query optimization and caching strategies — contributing to faster page load times and improved SEO-readiness of product pages.
 
 ---
 
