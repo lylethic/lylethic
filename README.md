@@ -1,5 +1,8 @@
-## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Hi, I'm Ly Le Thi Cam — Fresher Developer
+<div align="right">
+  <a href="README.md">English 🇬🇧</a> | <a href="README.vi.md">Tiếng Việt 🇻🇳</a>
+</div>
 
+## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Hi, I'm Ly Le Thi Cam — Fresher Developer
 ---
 
 ### About Me
@@ -9,9 +12,9 @@ and CRM projects. Skilled in building interactive user interfaces, integrating R
 
 |               |                                                                          |
 | :------------ | :------------------------------------------------------------------------|
-| **Location**  | Go Vap, GCMC | Biên Hòa, Đồng Nai                                        |
-| **Education** | Information Technology      q                                            |
-| **Focus**     | Business Analyst | Backend Development · API Design · System Integration |
+| **Location**  | Go Vap, GCMC \| Bien Hoa, Dong Nai                                        |
+| **Education** | Information Technology                                                 |
+| **Focus**     | Business Analyst \| Backend Development · API Design · System Integration |
 
 ---
 
