@@ -4,12 +4,12 @@
 
 ### About Me
 
-> Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
+- Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
 and CRM projects. Skilled in building interactive user interfaces, integrating RESTful APIs, and optimizing application performance. Seeking a Fresher Web Developer role to apply React expertise to production-grade products and grow within a professional development team.
 
 |               |                                                       |
 | :------------ | :---------------------------------------------------- |
-| **Location**  | Go Vap, GCMC                                          |
+| **Location**  | Go Vap, GCMC | Biên Hòa, Đồng Nai                     |
 | **Education** | Information Technology Graduated                      |
 | **Focus**     | Backend Development · API Design · System Integration |
 
@@ -29,17 +29,6 @@ and CRM projects. Skilled in building interactive user interfaces, integrating R
 - Leveraged Claude Code and OpenAI Codex to automate boilerplate generation, and refactoring, reducing time spent on repetitive development tasks.
 
 Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, Sequelize ORM, Git, Postman...`
-
-
-### Tech Stack
-
-| Category      | Technologies                                             |
-| :------------ | :----------------------------------------------          |
-| **Languages** | C#, JavaScript, Python, TypeScript                       |
-| **Backend**   | .NET Core (ASP.NET), Node.js (Express), FastAPI          |
-| **Frontend**  | React, Next.js (Basic), HTML, CSS, TailwindCss, Bootstrap|
-| **Database**  | SQL Server, MongoDB, PostgreSQL                          |
-| **Tools**     | Docker, Git, Postman, Codex, Claude AI                   |
 
 ---
 
@@ -72,7 +61,6 @@ Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 <td align="center"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="./svg/codex-color.svg" alt="html5" width="40" height="40" /></a></td></tr></table>
 
 ---
-
 
 ### Projects
 
@@ -137,22 +125,14 @@ Backend
 ```
 
 **Features:** 
-
-> Product categories management
-
-> Management of menu items (name, price, images, description, tags)
-
-> Manage product images (upload, delete, set primary)
-
-> Users management
-
-> Assign/remove roles from users
-
-> Enable/disable accounts
-
-> Configure restaurant GPS coordinates and geofence radius
-
-> Toggle geofencing checks on/off instantly
+- Product categories management
+- Management of menu items (name, price, images, description, tags)
+- Manage product images (upload, delete, set primary)
+- Users management
+- Assign/remove roles from users
+- Enable/disable accounts
+- Configure restaurant GPS coordinates and geofence radius
+- Toggle geofencing checks on/off instantly
 
 ---
 
@@ -163,14 +143,10 @@ Backend
 **Technologies:** Python, FastAPI, LLM (Gemini), Rule-based routing
 
 **Features:** 
-
-> **Smart Shutdown:** Close resource-heavy apps, block entertainment websites, or close all applications except for the ones you need to keep running.
-
-> **Sleep Guard Mode:** If the computer is idle during your scheduled sleep hours, the app will alert you and take action based on your predefined settings.
-
-> **Daily Scheduling:** Set up daily routines with advance notifications. By default, the app alerts you 15 minutes before a task if the scheduled duration is sufficient.
-
-> **Remote Control:** Manage your computer via Telegram while the app is running or minimized to the system tray.
+- **Smart Shutdown:** Close resource-heavy apps, block entertainment websites, or close all applications except for the ones you need to keep running.
+- **Sleep Guard Mode:** If the computer is idle during your scheduled sleep hours, the app will alert you and take action based on your predefined settings.
+- **Daily Scheduling:** Set up daily routines with advance notifications. By default, the app alerts you 15 minutes before a task if the scheduled duration is sufficient.
+- **Remote Control:** Manage your computer via Telegram while the app is running or minimized to the system tray.
 
 ---
 
@@ -182,18 +158,12 @@ Backend
 **Technologies:** ASP.NET Core API, PostgreSQL, Hangfire, Docker
 
 **Features:** 
-
->  **Security & Identity:** Features a secure architecture using JWT and RBAC, complemented by OTP verification and comprehensive user activity tracking.
-
->  **Operational Management:** Provides end-to-end oversight of projects and tasks, including multi-level approval workflows, progress tracking, and dedicated mentorship mapping.
-
-> **Automation & Background Processing:** Utilizes Hangfire to handle recurring jobs, automated notifications, and system scheduling tasks in the background.
-
->  **Smart Attendance & Monitoring:** Implements geofence-based check-ins for location-accurate attendance, paired with a real-time notification system via SignalR.
-
->  **Reporting & Analytics:** Offers a data-driven approach with productivity dashboards and automated Excel report generation.
-
->  **Media & Asset Control:** Integrates Cloudinary for scalable cloud-based media storage and management.
+- **Security & Identity:** Features a secure architecture using JWT and RBAC, complemented by OTP verification and comprehensive user activity tracking.
+- **Operational Management:** Provides end-to-end oversight of projects and tasks, including multi-level approval workflows, progress tracking, and dedicated mentorship mapping.
+- **Automation & Background Processing:** Utilizes Hangfire to handle recurring jobs, automated notifications, and system scheduling tasks in the background.
+- **Smart Attendance & Monitoring:** Implements geofence-based check-ins for location-accurate attendance, paired with a real-time notification system via SignalR.
+- **Reporting & Analytics:** Offers a data-driven approach with productivity dashboards and automated Excel report generation.
+- **Media & Asset Control:** Integrates Cloudinary for scalable cloud-based media storage and management.
 
 ---
 
