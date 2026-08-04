@@ -4,14 +4,14 @@
 
 ### About Me
 
-- Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
+Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
 and CRM projects. Skilled in building interactive user interfaces, integrating RESTful APIs, and optimizing application performance. Seeking a Fresher Web Developer role to apply React expertise to production-grade products and grow within a professional development team.
 
-|               |                                                       |
-| :------------ | :---------------------------------------------------- |
-| **Location**  | Go Vap, GCMC | Biên Hòa, Đồng Nai                     |
-| **Education** | Information Technology Graduated                      |
-| **Focus**     | Backend Development · API Design · System Integration |
+|               |                                                                          |
+| :------------ | :------------------------------------------------------------------------|
+| **Location**  | Go Vap, GCMC | Biên Hòa, Đồng Nai                                        |
+| **Education** | Information Technology      q                                            |
+| **Focus**     | Business Analyst | Backend Development · API Design · System Integration |
 
 ---
 
@@ -29,36 +29,6 @@ and CRM projects. Skilled in building interactive user interfaces, integrating R
 - Leveraged Claude Code and OpenAI Codex to automate boilerplate generation, and refactoring, reducing time spent on repetitive development tasks.
 
 Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, Sequelize ORM, Git, Postman...`
-
----
-
-<h3 align="left">🛠 Languages and Tools: 🛠</h3>
-<table><tr>
-<td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a></td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a></td>
-<td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a></td>
-<td align="center"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./svg/python.gif" alt="python" width="40" height="40" /></a></td>
-<td align="center"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="./svg/dotnetcore-original.svg" alt="dotnet" width="40" height="40" /></a></td>
-<td align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./svg/express-js.svg" alt="express" width="40" height="40" /></a></td>
-<td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></td>
-<td align="center"><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a></td>
-<td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="./svg/fastapi-seeklogo.png" alt="fastApi" width="40" height="40" /></a></td>
-<td align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./svg/nextjs-logo.png" alt="nextjs" width="40" height="40" /></a></td>
-<td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a></td>
-<td align="center"><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a></td>
-<td align="center"><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a></td>
-<td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a></td>
-<td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./svg/bootstrap.png" alt="bootstrap" width="40" height="40" /></a></td>
-<td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a></td>
-<td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a></td>
-</tr></table>
-
----
-
-<h3 align="left">🛠 AI Tools: 🛠</h3>
-<table><tr><td align="center"><a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="./svg/claude-color.svg" alt="claude" width="40" height="40" /></a></td>
-<td align="center"><a href="https://gemini.google.com/app" target="_blank" rel="noreferrer"><img src="./svg/gemini-color.svg" alt="html5" width="40" height="40" /></a></td>
-<td align="center"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="./svg/codex-color.svg" alt="html5" width="40" height="40" /></a></td></tr></table>
 
 ---
 
@@ -101,8 +71,8 @@ integrated customer source tracking from multiple social platforms (Facebook, Za
 
 ### Personal Projects
 
-#### `Ruby - Ordering Food Management System in Restaurant`
-<a href="https://github.com/lylethic/order-food.git" target="_blank"><img src="./svg/hyperlink_7537555.png" alt="Link" height="28" width="28" /></a>
+#### 🚀 `Ruby - Ordering Food Management System in Restaurant`
+<a href="https://github.com/lylethic/order-food.git" target="_blank">Link</a>
   
 **Description:** A comprehensive restaurant management and ordering platform built with Next.js + TypeScript (Client) and Node.js + Express + Prisma (Backend), supporting 4 main roles with dedicated features._
 
@@ -136,7 +106,7 @@ Backend
 
 ---
 
-#### `AT_ASSISTANT — AI Desktop Chatbot`
+#### 🚀 `AT_ASSISTANT — AI Desktop Chatbot`
 
 **Description:** AT Assistant is a virtual assistant designed for Windows. You can type in Vietnamese to ask the app to launch applications, search for files, read your Gmail, set reminders, automate repetitive tasks, or control your computer remotely via Telegram. The app is designed for daily use, eliminating the need to memorize complex commands. You simply type or speak what you would like to do.
 
@@ -150,10 +120,10 @@ Backend
 
 ---
 
-#### `TaskHub — Internal Task Management`
-<a href="https://github.com/lylethic/tmsys" target="_blank"><img src="./svg/hyperlink_7537555.png" alt="Link" height="28" width="28" /></a>
+#### 🚀 `TaskHub — Internal Task Management`
+<a href="https://github.com/lylethic/tmsys" target="_blank">Link</a>
 
-**Description:** 🚀 TaskHub - Task Management System | TaskHub (Task Management System) is a professional internal task management system for IT teams. It is built on .NET 8.0 with Clean Architecture to ensure scalability, maintainability, and high performance.
+**Description:** TaskHub is a professional internal task management system for IT teams. It is built on .NET 8.0 with Clean Architecture to ensure scalability, maintainability, and high performance.
 
 **Technologies:** ASP.NET Core API, PostgreSQL, Hangfire, Docker
 
@@ -164,6 +134,36 @@ Backend
 - **Smart Attendance & Monitoring:** Implements geofence-based check-ins for location-accurate attendance, paired with a real-time notification system via SignalR.
 - **Reporting & Analytics:** Offers a data-driven approach with productivity dashboards and automated Excel report generation.
 - **Media & Asset Control:** Integrates Cloudinary for scalable cloud-based media storage and management.
+
+---
+
+<h3 align="left">🛠 Languages and Tools: 🛠</h3>
+<table><tr>
+<td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a></td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./svg/python.gif" alt="python" width="40" height="40" /></a></td>
+<td align="center"><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="./svg/dotnetcore-original.svg" alt="dotnet" width="40" height="40" /></a></td>
+<td align="center"><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./svg/express-js.svg" alt="express" width="40" height="40" /></a></td>
+<td align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" /></a></td>
+<td align="center"><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="./svg/fastapi-seeklogo.png" alt="fastApi" width="40" height="40" /></a></td>
+<td align="center"><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="./svg/nextjs-logo.png" alt="nextjs" width="40" height="40" /></a></td>
+<td align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a></td>
+<td align="center"><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /></a></td>
+<td align="center"><a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a></td>
+<td align="center"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /></a></td>
+<td align="center"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./svg/bootstrap.png" alt="bootstrap" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a></td>
+<td align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a></td>
+</tr></table>
+
+---
+
+<h3 align="left">🛠 AI Tools: 🛠</h3>
+<table><tr><td align="center"><a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="./svg/claude-color.svg" alt="claude" width="40" height="40" /></a></td>
+<td align="center"><a href="https://gemini.google.com/app" target="_blank" rel="noreferrer"><img src="./svg/gemini-color.svg" alt="html5" width="40" height="40" /></a></td>
+<td align="center"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="./svg/codex-color.svg" alt="html5" width="40" height="40" /></a></td></tr></table>
 
 ---
 
