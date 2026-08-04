@@ -20,7 +20,7 @@ and CRM projects. Skilled in building interactive user interfaces, integrating R
 
 ### Work Experience
 
-`**Back-End Developer**` | May 2025 - Jul 2026
+`**Back-End Developer**` | May 2025 - Agust 2026
 
 **Company:** VietProDev Software Co., Ltd (L5-5, Phu Gia 2 Residential Area, Dong Nai, Vietnam.)
 

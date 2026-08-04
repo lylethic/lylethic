@@ -20,7 +20,7 @@ Lập trình viên Web mới vào nghề, thành thạo JavaScript, React.js, Ne
 
 ### Kinh nghiệm làm việc
 
-`**Back-End Developer**` | Tháng 5/2025 - Tháng 7/2026
+`**Back-End Developer**` | Tháng 5/2025 - Tháng 8/2026
 
 **Công ty:** Công ty TNHH Phần mềm VietProDev (L5-5, Khu dân cư Phú Gia 2, Đồng Nai, Việt Nam.)
 
