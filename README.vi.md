@@ -2,13 +2,13 @@
   <a href="README.md">Tiếng Việt 🇻🇳</a> | <a href="README.vi.md">English 🇬🇧</a>
 </div>
 
-## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Hi, I'm Ly Le Thi Cam — Fresher Developer
+## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Hi, I'm Ly Le Thi Cam — Backend Developer
 ---
 
 ### About Me
 
-Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
-and CRM projects. Skilled in building interactive user interfaces, integrating RESTful APIs, and optimizing application performance. Seeking a Fresher Web Developer role to apply React expertise to production-grade products and grow within a professional development team.
+Entry-level Backend Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
+and CRM projects. Skilled in building interactive user interfaces, integrating RESTful APIs, and optimizing application performance. Seeking a Backend Developer role to apply React expertise to production-grade products and grow within a professional development team.
 
 |               |                                                                          |
 | :------------ | :------------------------------------------------------------------------|
