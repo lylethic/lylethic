@@ -1,14 +1,14 @@
 <div align="right">
-  <a href="README.md">English 🇬🇧</a> | <a href="README.vi.md">Tiếng Việt 🇻🇳</a>
+  <a href="README.md">Tiếng Việt 🇻🇳</a> | <a href="README.vi.md">English 🇬🇧</a>
 </div>
 
-## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Chào bạn, mình là Ly Lê Thị Cẩm — Lập trình viên Fresher
+## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Xin Chào, em là Ly Lê Thị Cẩm — Backend Developer
 
 ---
 
 ### Về bản thân
 
-Lập trình viên Web mới vào nghề, thành thạo JavaScript, React.js, Next.js và TypeScript, với hơn 1 năm kinh nghiệm thực tế qua các dự án E-commerce và CRM. Có kỹ năng xây dựng giao diện người dùng tương tác, tích hợp RESTful API và tối ưu hóa hiệu suất ứng dụng. Đang tìm kiếm vị trí Fresher Web Developer để áp dụng chuyên môn React vào các sản phẩm thực tế và phát triển cùng một đội ngũ lập trình chuyên nghiệp.
+Lập trình viên BAckend mới vào nghề, ứng dụng tốt JavaScript, React.js, Next.js và TypeScript, với hơn 1 năm kinh nghiệm thực tế qua các dự án E-commerce và CRM. Có kỹ năng xây dựng giao diện người dùng tương tác, tích hợp RESTful API và tối ưu hóa hiệu suất ứng dụng. Đang tìm kiếm vị trí Backend Developer để áp dụng chuyên môn vào các sản phẩm thực tế và phát triển cùng một đội ngũ lập trình chuyên nghiệp.
 
 |               |                                                                          |
 | :------------ | :------------------------------------------------------------------------|
@@ -37,21 +37,6 @@ Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 
 ### Dự án
 
-#### `Nền tảng CRM` — Lập trình viên Backend (Node.js/Express.js) (Tháng 4/2026 - Hiện tại)
-
-**Mô tả:** Hệ thống CRM đa kênh cho phép doanh nghiệp quản lý khách hàng, đơn hàng, sản phẩm và chiến dịch tiếp thị, tích hợp theo dõi nguồn khách hàng từ nhiều nền tảng mạng xã hội (Facebook, Zalo, TikTok, X) và thông báo theo thời gian thực.
-
-**Quy mô nhóm:** 7 thành viên (1 PM, 1 BA, 1 Tester, 2 Front-End, 2 Back-End).
-
-**Công nghệ:** NodeJs, ExpressJs, Socket.io, OneSignal, RESTful API, NextJS, React Native, Git,..
-
-**Trách nhiệm:**
-- Phát triển và bảo trì RESTful API cho các tính năng quản lý khách hàng, bao gồm hồ sơ khách hàng, gắn thẻ/phân loại và theo dõi người dùng được giao.
-- Xây dựng tích hợp nguồn khách hàng để theo dõi và phân loại các lead đến từ nhiều kênh (Facebook, Zalo, TikTok, X.com).
-- Triển khai chức năng Import/Export danh sách khách hàng bằng Excel (ExcelJS/SheetJS), hỗ trợ thao tác dữ liệu hàng loạt cho đội ngũ sale và marketing.
-- Thiết kế và tối ưu hóa schema và truy vấn cơ sở dữ liệu sử dụng Sequelize ORM với PostgreSQL.
-
-
 #### `Bimparts.vn` — Nền tảng E-Commerce Phụ tùng Công nghiệp (Tháng 7/2025 - Hiện tại)
 
 <a href="https://bimparts.vn" target="_blank">Link</a>
@@ -68,6 +53,20 @@ Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 - Xây dựng RESTful API cho quy trình giỏ hàng và thanh toán, bao gồm lưu trữ giỏ hàng, xác thực tồn kho và logic xác nhận đơn hàng.
 - Thiết kế và tối ưu schema cơ sở dữ liệu quan hệ cho sản phẩm, kho hàng, đơn hàng và dữ liệu khách hàng; áp dụng chiến lược indexing để hỗ trợ các truy vấn danh mục khối lượng lớn.
 - Áp dụng các cải tiến hiệu suất kỹ thuật — tối ưu hóa truy vấn và chiến lược caching — góp phần tải trang nhanh hơn và cải thiện khả năng SEO của trang sản phẩm.
+
+#### `Nền tảng CRM` — Lập trình viên Backend (Node.js/Express.js) (Tháng 4/2026 - Tháng 07/2026)
+
+**Mô tả:** Hệ thống CRM đa kênh cho phép doanh nghiệp quản lý khách hàng, đơn hàng, sản phẩm và chiến dịch tiếp thị, tích hợp theo dõi nguồn khách hàng từ nhiều nền tảng mạng xã hội (Facebook, Zalo, TikTok, X) và thông báo theo thời gian thực.
+
+**Quy mô nhóm:** 7 thành viên (1 PM, 1 BA, 1 Tester, 2 Front-End, 2 Back-End).
+
+**Công nghệ:** NodeJs, ExpressJs, Socket.io, OneSignal, RESTful API, NextJS, React Native, Git,..
+
+**Trách nhiệm:**
+- Phát triển và bảo trì RESTful API cho các tính năng quản lý khách hàng, bao gồm hồ sơ khách hàng, gắn thẻ/phân loại và theo dõi người dùng được giao.
+- Xây dựng tích hợp nguồn khách hàng để theo dõi và phân loại các lead đến từ nhiều kênh (Facebook, Zalo, TikTok, X.com).
+- Triển khai chức năng Import/Export danh sách khách hàng bằng Excel (ExcelJS/SheetJS), hỗ trợ thao tác dữ liệu hàng loạt cho đội ngũ sale và marketing.
+- Thiết kế và tối ưu hóa schema và truy vấn cơ sở dữ liệu sử dụng Sequelize ORM với PostgreSQL.
 
 ---
 
@@ -119,23 +118,6 @@ Backend
 - **Chế độ canh giấc ngủ (Sleep Guard Mode):** Nếu máy tính không hoạt động trong giờ ngủ đã lên lịch của bạn, ứng dụng sẽ cảnh báo và thực hiện hành động dựa trên cài đặt sẵn của bạn.
 - **Lập lịch Hàng ngày (Daily Scheduling):** Thiết lập lịch trình hàng ngày với thông báo trước. Theo mặc định, ứng dụng cảnh báo bạn 15 phút trước một nhiệm vụ nếu thời lượng lên lịch đủ.
 - **Điều khiển Từ xa:** Quản lý máy tính qua Telegram khi ứng dụng đang chạy hoặc thu nhỏ vào khay hệ thống.
-
----
-
-#### 🚀 `TaskHub — Quản lý Công việc Nội bộ`
-<a href="https://github.com/lylethic/tmsys" target="_blank">Link</a>
-
-**Mô tả:** TaskHub là một hệ thống quản lý công việc nội bộ chuyên nghiệp cho các team IT. Được xây dựng trên .NET 8.0 với Clean Architecture để đảm bảo khả năng mở rộng, khả năng bảo trì và hiệu suất cao.
-
-**Công nghệ:** ASP.NET Core API, PostgreSQL, Hangfire, Docker
-
-**Tính năng:** 
-- **Bảo mật & Danh tính (Security & Identity):** Kiến trúc bảo mật sử dụng JWT và RBAC, bổ sung xác minh OTP và theo dõi hoạt động người dùng toàn diện.
-- **Quản lý Vận hành:** Cung cấp khả năng giám sát dự án và tác vụ end-to-end, bao gồm quy trình phê duyệt nhiều cấp, theo dõi tiến độ và hệ thống bản đồ cố vấn (mentorship) chuyên dụng.
-- **Tự động hóa & Xử lý Nền:** Sử dụng Hangfire để xử lý các công việc định kỳ, thông báo tự động và tác vụ lập lịch hệ thống trong nền.
-- **Điểm danh Thông minh & Giám sát:** Áp dụng check-in dựa trên geofence để điểm danh chính xác theo vị trí, kết hợp hệ thống thông báo theo thời gian thực qua SignalR.
-- **Báo cáo & Phân tích:** Cung cấp cách tiếp cận dựa trên dữ liệu với dashboard năng suất và tạo báo cáo Excel tự động.
-- **Quản lý Tài nguyên Truyền thông:** Tích hợp Cloudinary để lưu trữ và quản lý dữ liệu trên đám mây với khả năng mở rộng.
 
 ---
 
