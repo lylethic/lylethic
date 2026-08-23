@@ -2,7 +2,7 @@
   <a href="README.md">Tiếng Việt 🇻🇳</a> | <a href="README.vi.md">English 🇬🇧</a>
 </div>
 
-## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Xin Chào, em là Ly Lê Thị Cẩm — Backend Developer
+## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Xin Chào, em là Lê Thị Cẩm Ly — Backend Developer
 
 ---
 
