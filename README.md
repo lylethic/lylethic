@@ -1,146 +1,127 @@
 <div align="right">
-  <a href="README.md">English 🇬🇧</a> | <a href="README.vi.md">Tiếng Việt 🇻🇳</a>
+  <a href="README.md">Tiếng Việt 🇻🇳</a> | <a href="README.vi.md">English 🇬🇧</a>
 </div>
 
-## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Hi, I'm Ly Le Thi Cam — Fresher Developer
+## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Xin Chào, em là Ly Lê Thị Cẩm — Backend Developer
+
 ---
 
-### About Me
+### Về bản thân
 
-Entry-level Web Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
-and CRM projects. Skilled in building interactive user interfaces, integrating RESTful APIs, and optimizing application performance. Seeking a Fresher Web Developer role to apply React expertise to production-grade products and grow within a professional development team.
+Lập trình viên BAckend mới vào nghề, ứng dụng tốt JavaScript, React.js, Next.js và TypeScript, với hơn 1 năm kinh nghiệm thực tế qua các dự án E-commerce và CRM. Có kỹ năng xây dựng giao diện người dùng tương tác, tích hợp RESTful API và tối ưu hóa hiệu suất ứng dụng. Đang tìm kiếm vị trí Backend Developer để áp dụng chuyên môn vào các sản phẩm thực tế và phát triển cùng một đội ngũ lập trình chuyên nghiệp.
 
 |               |                                                                          |
 | :------------ | :------------------------------------------------------------------------|
-| **Location**  | Go Vap, GCMC \| Bien Hoa, Dong Nai                                        |
-| **Education** | Information Technology                                                 |
-| **Focus**     | Business Analyst \| Backend Development · API Design · System Integration |
+| **Khu vực**   | Gò Vấp, TP.HCM \| Biên Hòa, Đồng Nai                                       |
+| **Học vấn**   | Công nghệ thông tin                                                     |
+| **Định hướng**| Business Analyst \| Lập trình Backend · Thiết kế API · Tích hợp Hệ thống  |
 
 ---
 
-### Work Experience
+### Kinh nghiệm làm việc
 
-`**Back-End Developer**` | May 2025 - Agust 2026
+`**Back-End Developer**` | Tháng 5/2025 - Tháng 8/2026
 
-**Company:** VietProDev Software Co., Ltd (L5-5, Phu Gia 2 Residential Area, Dong Nai, Vietnam.)
+**Công ty:** Công ty TNHH Phần mềm VietProDev (L5-5, Khu dân cư Phú Gia 2, Đồng Nai, Việt Nam.)
 
-- Developed and maintained RESTful APIs using ASP.NET Core, supporting core **E-commerce and CRM system** features; improved backend scalability and code maintainability.
-- Optimized SQL queries with indexing and query tuning, **reducing average API response time from ~2,000ms to ~600ms (~70% improvement)**, directly enhancing user-facing page performance.
-- Built and integrated APIs for affiliate marketing campaign configurations and a real-time user feedback system with OneSignal push notification delivery.
-- Refactored legacy backend code and database queries, achieving a 20% overall system performance improvement.
-- Collaborated on Frontend tasks using React.js and Next.js for internal portal dashboards, contributing to responsive UI and data visualization components.
-- Leveraged Claude Code and OpenAI Codex to automate boilerplate generation, and refactoring, reducing time spent on repetitive development tasks.
+- Phát triển và bảo trì RESTful API bằng ASP.NET Core, hỗ trợ các tính năng cốt lõi của **hệ thống E-commerce và CRM**; cải thiện khả năng mở rộng backend và bảo trì mã nguồn.
+- Tối ưu hóa truy vấn SQL với indexing và điều chỉnh truy vấn, **giảm thời gian phản hồi API trung bình từ ~2.000ms xuống ~600ms (cải thiện ~70%)**, trực tiếp nâng cao hiệu suất trang cho người dùng.
+- Xây dựng và tích hợp API cho các cấu hình chiến dịch tiếp thị liên kết (affiliate marketing) và hệ thống phản hồi người dùng theo thời gian thực với OneSignal push notification.
+- Tái cấu trúc (refactor) mã nguồn backend cũ và truy vấn cơ sở dữ liệu, đạt mức cải thiện 20% hiệu suất toàn hệ thống.
+- Phối hợp thực hiện các công việc Frontend sử dụng React.js và Next.js cho trang dashboard nội bộ, đóng góp vào giao diện responsive và các thành phần trực quan hóa dữ liệu.
+- Tận dụng Claude Code và OpenAI Codex để tự động hóa việc tạo boilerplate và tái cấu trúc, giảm thời gian dành cho các tác vụ lập trình lặp đi lặp lại.
 
-Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, Sequelize ORM, Git, Postman...`
+Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, Sequelize ORM, Git, Postman...`
 
 ---
 
-### Projects
+### Dự án
 
-#### `CRM Platform` — Backend Developer (Node.js/Express.js) (Apr 2026 - Present)
-
-**Description:** A multi-channel CRM system enabling businesses to manage customers, orders, products, and marketing campaigns, with
-integrated customer source tracking from multiple social platforms (Facebook, Zalo, TikTok, X) and real-time notifications.
-
-**Team Size:** 7 members (1 PM, 1 BA, 1 Tester, 2 Front-End, 2 Back-End).
-
-**Technologies:** NodeJs, ExpressJs, Socket.io, OneSignal, RESTful API, NextJS, React Native, Git,..
-
-**Responsibilities:**
-- Developed and maintained RESTful APIs for customer management features, including customer profiles, tagging/classification, and assigned-user tracking.
-- Built customer source integration to track and categorize leads originating from multiple channels (Facebook, Zalo, TikTok, X.com).
-- Implemented Import/Export functionality for customer lists using Excel (ExcelJS/SheetJS), supporting bulk data operations for the sales and marketing teams.
-- Designed and optimized database schemas and queries using Sequelize ORM with PostgreSQL.
-
-
-#### `Bimparts.vn` — Industrial Parts E-Commerce Platform (July 2025 - Present)
+#### `Bimparts.vn` — Nền tảng E-Commerce Phụ tùng Công nghiệp (Tháng 7/2025 - Hiện tại)
 
 <a href="https://bimparts.vn" target="_blank">Link</a>
 
-**Description:** A B2C e-commerce platform for BIM BIM Joint Stock Company, specializing in 10,000+ SKUs of forklift, tractor, and heavy machinery spare parts across Vietnam. Served as primary Back-End Developer with Frontend support responsibilities.
+**Mô tả:** Nền tảng e-commerce B2C của Công ty Cổ phần BIM BIM, chuyên cung cấp hơn 10.000 SKU phụ tùng xe nâng, máy kéo và máy móc hạng nặng trên toàn Việt Nam. Đảm nhiệm vai trò Lập trình viên Backend chính, đồng thời hỗ trợ Frontend.
 
-**Team Size:** 10 members (1 PM, 5 Front-End, 4 Back-End).
+**Quy mô nhóm:** 10 thành viên (1 PM, 5 Front-End, 4 Back-End).
 
-**Technologies:** ASP.NET Core, C#, SignalR, PostgreSQL, Entity Framework Core, Hangfire, RESTful API, Angular, Git,...
+**Công nghệ:** ASP.NET Core, C#, SignalR, PostgreSQL, Entity Framework Core, Hangfire, RESTful API, Angular, Git,...
 
-**Responsibilities:**
+**Trách nhiệm:**
 
-- Designed and implemented the product catalog and category management system, handling 10,000+ SKUs with multi-attribute filtering (brand, model compatibility, part type) to support complex B2C search and browsing flows.
-- Built RESTful APIs for shopping cart and checkout workflows, including cart persistence, stock validation, and order confirmation logic.
-- Designed and optimized the relational database schema for product, inventory, order, and customer data; applied indexing strategies to support high-volume catalog queries.
-- Applied technical performance improvements — query optimization and caching strategies — contributing to faster page load times and improved SEO-readiness of product pages.
+- Thiết kế và triển khai hệ thống quản lý danh mục và danh sách sản phẩm, xử lý hơn 10.000 SKU với bộ lọc đa thuộc tính (thương hiệu, mẫu mã tương thích, loại phụ tùng) để hỗ trợ luồng tìm kiếm và duyệt B2C phức tạp.
+- Xây dựng RESTful API cho quy trình giỏ hàng và thanh toán, bao gồm lưu trữ giỏ hàng, xác thực tồn kho và logic xác nhận đơn hàng.
+- Thiết kế và tối ưu schema cơ sở dữ liệu quan hệ cho sản phẩm, kho hàng, đơn hàng và dữ liệu khách hàng; áp dụng chiến lược indexing để hỗ trợ các truy vấn danh mục khối lượng lớn.
+- Áp dụng các cải tiến hiệu suất kỹ thuật — tối ưu hóa truy vấn và chiến lược caching — góp phần tải trang nhanh hơn và cải thiện khả năng SEO của trang sản phẩm.
+
+#### `Nền tảng CRM` — Lập trình viên Backend (Node.js/Express.js) (Tháng 4/2026 - Tháng 07/2026)
+
+**Mô tả:** Hệ thống CRM đa kênh cho phép doanh nghiệp quản lý khách hàng, đơn hàng, sản phẩm và chiến dịch tiếp thị, tích hợp theo dõi nguồn khách hàng từ nhiều nền tảng mạng xã hội (Facebook, Zalo, TikTok, X) và thông báo theo thời gian thực.
+
+**Quy mô nhóm:** 7 thành viên (1 PM, 1 BA, 1 Tester, 2 Front-End, 2 Back-End).
+
+**Công nghệ:** NodeJs, ExpressJs, Socket.io, OneSignal, RESTful API, NextJS, React Native, Git,..
+
+**Trách nhiệm:**
+- Phát triển và bảo trì RESTful API cho các tính năng quản lý khách hàng, bao gồm hồ sơ khách hàng, gắn thẻ/phân loại và theo dõi người dùng được giao.
+- Xây dựng tích hợp nguồn khách hàng để theo dõi và phân loại các lead đến từ nhiều kênh (Facebook, Zalo, TikTok, X.com).
+- Triển khai chức năng Import/Export danh sách khách hàng bằng Excel (ExcelJS/SheetJS), hỗ trợ thao tác dữ liệu hàng loạt cho đội ngũ sale và marketing.
+- Thiết kế và tối ưu hóa schema và truy vấn cơ sở dữ liệu sử dụng Sequelize ORM với PostgreSQL.
 
 ---
 
-### Personal Projects
+### Dự án Cá nhân
 
-#### 🚀 `Ruby - Ordering Food Management System in Restaurant`
+#### 🚀 `Ruby - Hệ thống Quản lý Đặt món trong Nhà hàng`
 <a href="https://github.com/lylethic/order-food.git" target="_blank">Link</a>
   
-**Description:** A comprehensive restaurant management and ordering platform built with Next.js + TypeScript (Client) and Node.js + Express + Prisma (Backend), supporting 4 main roles with dedicated features._
+**Mô tả:** Nền tảng đặt món và quản lý nhà hàng toàn diện được xây dựng bằng Next.js + TypeScript (Client) và Node.js + Express + Prisma (Backend), hỗ trợ 4 vai trò chính với các tính năng chuyên biệt._
 
-**Technologies:** 
+**Công nghệ:** 
 ```
 Client
 - ⚛️ Next.js 16 + React 19 + TypeScript
-- ⚡ App Router - File-based routing in Next.js
+- ⚡ App Router - Routing dựa trên file trong Next.js
 - 🎨 Tailwind CSS - Responsive styling
-- 🎬 Framer Motion - Animations
-- 🌙 next-themes - Light/dark theme support
-- 🌍 Multi-language - Vietnamese & English support
+- 🎬 Framer Motion - Hiệu ứng (Animations)
+- 🌙 next-themes - Hỗ trợ theme Sáng/Tối
+- 🌍 Đa ngôn ngữ - Hỗ trợ tiếng Việt & tiếng Anh
 Backend
 - 🟢 Node.js + Express.js
-- 🗄️ Prisma ORM - Database management
+- 🗄️ Prisma ORM - Quản lý cơ sở dữ liệu
 - 🐘 PostgreSQL (Supabase)
-- 🔐 JWT Authentication - Secure authentication
-- 📚 Swagger/OpenAPI - API documentation
-- ✅ Zod - Schema validation
+- 🔐 JWT Authentication - Xác thực bảo mật
+- 📚 Swagger/OpenAPI - Tài liệu API
+- ✅ Zod - Xác thực Schema
 ```
 
-**Features:** 
-- Product categories management
-- Management of menu items (name, price, images, description, tags)
-- Manage product images (upload, delete, set primary)
-- Users management
-- Assign/remove roles from users
-- Enable/disable accounts
-- Configure restaurant GPS coordinates and geofence radius
-- Toggle geofencing checks on/off instantly
+**Tính năng:** 
+- Quản lý danh mục sản phẩm
+- Quản lý các món ăn (tên, giá, hình ảnh, mô tả, thẻ)
+- Quản lý hình ảnh sản phẩm (tải lên, xóa, đặt ảnh chính)
+- Quản lý người dùng
+- Cấp/thu hồi vai trò từ người dùng
+- Bật/tắt tài khoản
+- Cấu hình tọa độ GPS nhà hàng và bán kính khu vực an toàn (geofence)
+- Bật/tắt kiểm tra geofencing tức thì
 
 ---
 
 #### 🚀 `AT_ASSISTANT — AI Desktop Chatbot`
 
-**Description:** AT Assistant is a virtual assistant designed for Windows. You can type in Vietnamese to ask the app to launch applications, search for files, read your Gmail, set reminders, automate repetitive tasks, or control your computer remotely via Telegram. The app is designed for daily use, eliminating the need to memorize complex commands. You simply type or speak what you would like to do.
+**Mô tả:** AT Assistant là một trợ lý ảo được thiết kế cho Windows. Bạn có thể gõ bằng tiếng Việt để yêu cầu ứng dụng khởi chạy phần mềm, tìm kiếm file, đọc Gmail, đặt nhắc nhở, tự động hóa các tác vụ lặp đi lặp lại, hoặc điều khiển máy tính từ xa qua Telegram. Ứng dụng được thiết kế cho việc sử dụng hàng ngày, loại bỏ nhu cầu ghi nhớ các lệnh phức tạp. Bạn chỉ cần gõ hoặc nói những gì muốn làm.
 
-**Technologies:** Python, FastAPI, LLM (Gemini), Rule-based routing
+**Công nghệ:** Python, FastAPI, LLM (Gemini), Phân tuyến dựa trên luật (Rule-based routing)
 
-**Features:** 
-- **Smart Shutdown:** Close resource-heavy apps, block entertainment websites, or close all applications except for the ones you need to keep running.
-- **Sleep Guard Mode:** If the computer is idle during your scheduled sleep hours, the app will alert you and take action based on your predefined settings.
-- **Daily Scheduling:** Set up daily routines with advance notifications. By default, the app alerts you 15 minutes before a task if the scheduled duration is sufficient.
-- **Remote Control:** Manage your computer via Telegram while the app is running or minimized to the system tray.
-
----
-
-#### 🚀 `TaskHub — Internal Task Management`
-<a href="https://github.com/lylethic/tmsys" target="_blank">Link</a>
-
-**Description:** TaskHub is a professional internal task management system for IT teams. It is built on .NET 8.0 with Clean Architecture to ensure scalability, maintainability, and high performance.
-
-**Technologies:** ASP.NET Core API, PostgreSQL, Hangfire, Docker
-
-**Features:** 
-- **Security & Identity:** Features a secure architecture using JWT and RBAC, complemented by OTP verification and comprehensive user activity tracking.
-- **Operational Management:** Provides end-to-end oversight of projects and tasks, including multi-level approval workflows, progress tracking, and dedicated mentorship mapping.
-- **Automation & Background Processing:** Utilizes Hangfire to handle recurring jobs, automated notifications, and system scheduling tasks in the background.
-- **Smart Attendance & Monitoring:** Implements geofence-based check-ins for location-accurate attendance, paired with a real-time notification system via SignalR.
-- **Reporting & Analytics:** Offers a data-driven approach with productivity dashboards and automated Excel report generation.
-- **Media & Asset Control:** Integrates Cloudinary for scalable cloud-based media storage and management.
+**Tính năng:** 
+- **Tắt máy thông minh (Smart Shutdown):** Đóng các ứng dụng tiêu tốn tài nguyên, chặn trang web giải trí, hoặc đóng tất cả các ứng dụng ngoại trừ những ứng dụng bạn cần giữ lại.
+- **Chế độ canh giấc ngủ (Sleep Guard Mode):** Nếu máy tính không hoạt động trong giờ ngủ đã lên lịch của bạn, ứng dụng sẽ cảnh báo và thực hiện hành động dựa trên cài đặt sẵn của bạn.
+- **Lập lịch Hàng ngày (Daily Scheduling):** Thiết lập lịch trình hàng ngày với thông báo trước. Theo mặc định, ứng dụng cảnh báo bạn 15 phút trước một nhiệm vụ nếu thời lượng lên lịch đủ.
+- **Điều khiển Từ xa:** Quản lý máy tính qua Telegram khi ứng dụng đang chạy hoặc thu nhỏ vào khay hệ thống.
 
 ---
 
-<h3 align="left">🛠 Languages and Tools: 🛠</h3>
+<h3 align="left">🛠 Ngôn ngữ và Công cụ: 🛠</h3>
 <table><tr>
 <td align="center"><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /></a></td>
 <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a></td>
@@ -163,14 +144,14 @@ Backend
 
 ---
 
-<h3 align="left">🛠 AI Tools: 🛠</h3>
+<h3 align="left">🛠 Công cụ AI: 🛠</h3>
 <table><tr><td align="center"><a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="./svg/claude-color.svg" alt="claude" width="40" height="40" /></a></td>
 <td align="center"><a href="https://gemini.google.com/app" target="_blank" rel="noreferrer"><img src="./svg/gemini-color.svg" alt="html5" width="40" height="40" /></a></td>
 <td align="center"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="./svg/codex-color.svg" alt="html5" width="40" height="40" /></a></td></tr></table>
 
 ---
 
-### Connect
+### Liên hệ
 
 <table><tr>
 <td><a href="mailto:lethicamly975@gmail.com" target="_blank"><img src="./svg/circle_14025188.png" alt="LeetCode" height="30" width="30" /></a></td>
