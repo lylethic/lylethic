@@ -2,25 +2,25 @@
   <a href="README.md">Tiếng Việt 🇻🇳</a> | <a href="README.vi.md">English 🇬🇧</a>
 </div>
 
-## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Hi, I'm Ly Le Thi Cam — Backend Developer
+## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Hi, I'm Ly Le Thi Cam — Fullstack Developer
 ---
 
 ### About Me
 
-Entry-level Backend Developer proficient in JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
-and CRM projects. Skilled in building interactive user interfaces, integrating RESTful APIs, and optimizing application performance. Seeking a Backend Developer role to apply React expertise to production-grade products and grow within a professional development team.
+Entry-level Fullstack Developer proficient in C#, ASP.NET, JavaScript, React.js, Next.js, and TypeScript, with 1+ year of hands-on experience through E-commerce
+and CRM projects. Skilled in building interactive user interfaces, integrating RESTful APIs, and optimizing application performance. Seeking a Fullstack Developer role to apply React expertise to production-grade products and grow within a professional development team.
 
 |               |                                                                          |
 | :------------ | :------------------------------------------------------------------------|
 | **Location**  | Go Vap, GCMC \| Bien Hoa, Dong Nai                                        |
 | **Education** | Information Technology                                                 |
-| **Focus**     | Business Analyst \| Backend Development · API Design · System Integration |
+| **Focus**     | Business Analyst \| Fullstack Development · API Design · System Integration |
 
 ---
 
 ### Work Experience
 
-`**Back-End Developer**` | May 2025 - Agust 2026
+`**Fullstack Developer**` | May 2025 - Sep 2026
 
 **Company:** VietProDev Software Co., Ltd (L5-5, Phu Gia 2 Residential Area, Dong Nai, Vietnam.)
 
@@ -31,7 +31,7 @@ and CRM projects. Skilled in building interactive user interfaces, integrating R
 - Collaborated on Frontend tasks using React.js and Next.js for internal portal dashboards, contributing to responsive UI and data visualization components.
 - Leveraged Claude Code and OpenAI Codex to automate boilerplate generation, and refactoring, reducing time spent on repetitive development tasks.
 
-Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, Sequelize ORM, Git, Postman...`
+Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, ORM, Git, Gitlab CI/CD, Postman...`
 
 ---
 
@@ -41,7 +41,7 @@ Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 
 <a href="https://bimparts.vn" target="_blank">Link</a>
 
-**Description:** A B2C e-commerce platform for BIM BIM Joint Stock Company, specializing in 10,000+ SKUs of forklift, tractor, and heavy machinery spare parts across Vietnam. Served as primary Back-End Developer with Frontend support responsibilities.
+**Description:** A B2C e-commerce platform for BIM BIM Joint Stock Company, specializing in 10,000+ SKUs of forklift, tractor, and heavy machinery spare parts across Vietnam.
 
 **Team Size:** 10 members (1 PM, 5 Front-End, 4 Back-End).
 
@@ -54,14 +54,14 @@ Technologies: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 - Designed and optimized the relational database schema for product, inventory, order, and customer data; applied indexing strategies to support high-volume catalog queries.
 - Applied technical performance improvements — query optimization and caching strategies — contributing to faster page load times and improved SEO-readiness of product pages.
 
-#### `CRM Platform` — Backend Developer (Node.js/Express.js) (Apr 2026 - July 2026)
+#### `CRM Platform` — Multi-channel Customer Management System (Apr 2026 - July 2026)
 
 **Description:** A multi-channel CRM system enabling businesses to manage customers, orders, products, and marketing campaigns, with
 integrated customer source tracking from multiple social platforms (Facebook, Zalo, TikTok, X) and real-time notifications.
 
 **Team Size:** 7 members (1 PM, 1 BA, 1 Tester, 2 Front-End, 2 Back-End).
 
-**Technologies:** NodeJs, ExpressJs, Socket.io, OneSignal, RESTful API, NextJS, React Native, Git,..
+**Technologies:** NodeJs, ExpressJs, Socket.io, OneSignal, RESTful API, NextJS, React Native, Git, Gitlab CI/CD, Docker,...
 
 **Responsibilities:**
 - Developed and maintained RESTful APIs for customer management features, including customer profiles, tagging/classification, and assigned-user tracking.
