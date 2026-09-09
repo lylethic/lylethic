@@ -2,36 +2,36 @@
   <a href="README.md">Tiếng Việt 🇻🇳</a> | <a href="README.vi.md">English 🇬🇧</a>
 </div>
 
-## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Xin Chào, em là Lê Thị Cẩm Ly — Backend Developer
+## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Xin Chào, em là Lê Thị Cẩm Ly — Fullstack Developer
 
 ---
 
 ### Về bản thân
 
-Lập trình viên BAckend mới vào nghề, ứng dụng tốt JavaScript, React.js, Next.js và TypeScript, với hơn 1 năm kinh nghiệm thực tế qua các dự án E-commerce và CRM. Có kỹ năng xây dựng giao diện người dùng tương tác, tích hợp RESTful API và tối ưu hóa hiệu suất ứng dụng. Đang tìm kiếm vị trí Backend Developer để áp dụng chuyên môn vào các sản phẩm thực tế và phát triển cùng một đội ngũ lập trình chuyên nghiệp.
+Lập trình viên mới vào nghề, ứng dụng tốt JavaScript, React.js, Next.js và TypeScript, với hơn 1 năm kinh nghiệm thực tế qua các dự án E-commerce và CRM. Có kỹ năng xây dựng giao diện người dùng tương tác, tích hợp RESTful API và tối ưu hóa hiệu suất ứng dụng. Đang tìm kiếm vị trí Fullstack Developer để áp dụng chuyên môn vào các sản phẩm thực tế và phát triển cùng một đội ngũ lập trình chuyên nghiệp.
 
 |               |                                                                          |
 | :------------ | :------------------------------------------------------------------------|
 | **Khu vực**   | Gò Vấp, TP.HCM \| Biên Hòa, Đồng Nai                                       |
 | **Học vấn**   | Công nghệ thông tin                                                     |
-| **Định hướng**| Business Analyst \| Lập trình Backend · Thiết kế API · Tích hợp Hệ thống  |
+| **Định hướng**| Business Analyst \| Lập trình Fullstack · Thiết kế API · Tích hợp Hệ thống  |
 
 ---
 
 ### Kinh nghiệm làm việc
 
-`**Back-End Developer**` | Tháng 5/2025 - Tháng 8/2026
+`**Back-End Developer**` | Tháng 5/2025 - Tháng 9/2026
 
 **Công ty:** Công ty TNHH Phần mềm VietProDev (L5-5, Khu dân cư Phú Gia 2, Đồng Nai, Việt Nam.)
 
-- Phát triển và bảo trì RESTful API bằng ASP.NET Core, hỗ trợ các tính năng cốt lõi của **hệ thống E-commerce và CRM**; cải thiện khả năng mở rộng backend và bảo trì mã nguồn.
+- Phát triển và bảo trì RESTful API bằng ASP.NET Core, hỗ trợ các tính năng cốt lõi của **hệ thống E-commerce và CRM**; cải thiện khả năng mở rộng backend và bảo trì mã nguồn dự án.
 - Tối ưu hóa truy vấn SQL với indexing và điều chỉnh truy vấn, **giảm thời gian phản hồi API trung bình từ ~2.000ms xuống ~600ms (cải thiện ~70%)**, trực tiếp nâng cao hiệu suất trang cho người dùng.
-- Xây dựng và tích hợp API cho các cấu hình chiến dịch tiếp thị liên kết (affiliate marketing) và hệ thống phản hồi người dùng theo thời gian thực với OneSignal push notification.
+- Xây dựng danh mục và tích hợp API cho các cấu hình chiến dịch tiếp thị liên kết (affiliate marketing) và hệ thống phản hồi người dùng theo thời gian thực với OneSignal push notification.
 - Tái cấu trúc (refactor) mã nguồn backend cũ và truy vấn cơ sở dữ liệu, đạt mức cải thiện 20% hiệu suất toàn hệ thống.
 - Phối hợp thực hiện các công việc Frontend sử dụng React.js và Next.js cho trang dashboard nội bộ, đóng góp vào giao diện responsive và các thành phần trực quan hóa dữ liệu.
 - Tận dụng Claude Code và OpenAI Codex để tự động hóa việc tạo boilerplate và tái cấu trúc, giảm thời gian dành cho các tác vụ lập trình lặp đi lặp lại.
 
-Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, Sequelize ORM, Git, Postman...`
+Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, ORM, Git, Gitlab CI/CD, Postman...`
 
 ---
 
@@ -41,7 +41,7 @@ Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 
 <a href="https://bimparts.vn" target="_blank">Link</a>
 
-**Mô tả:** Nền tảng e-commerce B2C của Công ty Cổ phần BIM BIM, chuyên cung cấp hơn 10.000 SKU phụ tùng xe nâng, máy kéo và máy móc hạng nặng trên toàn Việt Nam. Đảm nhiệm vai trò Lập trình viên Backend chính, đồng thời hỗ trợ Frontend.
+**Mô tả:** Nền tảng e-commerce B2C của Công ty Cổ phần BIM BIM, chuyên cung cấp hơn 10.000 SKU phụ tùng xe nâng, máy kéo và máy móc hạng nặng trên toàn Việt Nam.
 
 **Quy mô nhóm:** 10 thành viên (1 PM, 5 Front-End, 4 Back-End).
 
@@ -54,7 +54,7 @@ Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 - Thiết kế và tối ưu schema cơ sở dữ liệu quan hệ cho sản phẩm, kho hàng, đơn hàng và dữ liệu khách hàng; áp dụng chiến lược indexing để hỗ trợ các truy vấn danh mục khối lượng lớn.
 - Áp dụng các cải tiến hiệu suất kỹ thuật — tối ưu hóa truy vấn và chiến lược caching — góp phần tải trang nhanh hơn và cải thiện khả năng SEO của trang sản phẩm.
 
-#### `Nền tảng CRM` — Lập trình viên Backend (Node.js/Express.js) (Tháng 4/2026 - Tháng 07/2026)
+#### `Nền tảng CRM` — HỆ THỐNG QUẢN LÝ KHÁCH HÀNG ĐA KÊNH (Tháng 4/2026 - Tháng 07/2026)
 
 **Mô tả:** Hệ thống CRM đa kênh cho phép doanh nghiệp quản lý khách hàng, đơn hàng, sản phẩm và chiến dịch tiếp thị, tích hợp theo dõi nguồn khách hàng từ nhiều nền tảng mạng xã hội (Facebook, Zalo, TikTok, X) và thông báo theo thời gian thực.
 
