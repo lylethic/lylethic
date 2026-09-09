@@ -8,7 +8,7 @@
 
 ### Về bản thân
 
-Lập trình viên mới vào nghề, ứng dụng tốt JavaScript, React.js, Next.js và TypeScript, với hơn 1 năm kinh nghiệm thực tế qua các dự án E-commerce và CRM. Có kỹ năng xây dựng giao diện người dùng tương tác, tích hợp RESTful API và tối ưu hóa hiệu suất ứng dụng. Đang tìm kiếm vị trí Fullstack Developer để áp dụng chuyên môn vào các sản phẩm thực tế và phát triển cùng một đội ngũ lập trình chuyên nghiệp.
+Lập trình viên mới vào nghề, ứng dụng tốt C#, ASP.NET, JavaScript, React.js, Next.js và TypeScript, với hơn 1 năm kinh nghiệm thực tế qua các dự án E-commerce và CRM. Có kỹ năng xây dựng giao diện người dùng tương tác, tích hợp RESTful API và tối ưu hóa hiệu suất ứng dụng. Đang tìm kiếm vị trí Fullstack Developer để áp dụng chuyên môn vào các sản phẩm thực tế và phát triển cùng một đội ngũ lập trình chuyên nghiệp.
 
 |               |                                                                          |
 | :------------ | :------------------------------------------------------------------------|
