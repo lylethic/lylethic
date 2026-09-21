@@ -2,7 +2,7 @@
   <a href="README.md">Tiếng Việt 🇻🇳</a> | <a href="README.vi.md">English 🇬🇧</a>
 </div>
 
-## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Xin Chào, em là Lê Thị Cẩm Ly — Fullstack Developer
+## <img src="./svg/idea.png" width="40" alt="https://github.com/lylethic" /> Xin Chào, tôi là Lê Thị Cẩm Ly — Fullstack Developer
 
 ---
 
@@ -51,7 +51,7 @@ Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 
 - Thiết kế và triển khai hệ thống quản lý danh mục và danh sách sản phẩm, xử lý hơn 10.000 SKU với bộ lọc đa thuộc tính (thương hiệu, mẫu mã tương thích, loại phụ tùng) để hỗ trợ luồng tìm kiếm và duyệt B2C phức tạp.
 - Xây dựng RESTful API cho quy trình giỏ hàng và thanh toán, bao gồm lưu trữ giỏ hàng, xác thực tồn kho và logic xác nhận đơn hàng.
-- Thiết kế và tối ưu schema cơ sở dữ liệu quan hệ cho sản phẩm, kho hàng, đơn hàng và dữ liệu khách hàng; áp dụng chiến lược indexing để hỗ trợ các truy vấn danh mục khối lượng lớn.
+- Thiết kế và tối ưu schtôia cơ sở dữ liệu quan hệ cho sản phẩm, kho hàng, đơn hàng và dữ liệu khách hàng; áp dụng chiến lược indexing để hỗ trợ các truy vấn danh mục khối lượng lớn.
 - Áp dụng các cải tiến hiệu suất kỹ thuật — tối ưu hóa truy vấn và chiến lược caching — góp phần tải trang nhanh hơn và cải thiện khả năng SEO của trang sản phẩm.
 
 #### `Nền tảng CRM` — HỆ THỐNG QUẢN LÝ KHÁCH HÀNG ĐA KÊNH (Tháng 4/2026 - Tháng 07/2026)
@@ -66,7 +66,7 @@ Công nghệ: `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, S
 - Phát triển và bảo trì RESTful API cho các tính năng quản lý khách hàng, bao gồm hồ sơ khách hàng, gắn thẻ/phân loại và theo dõi người dùng được giao.
 - Xây dựng tích hợp nguồn khách hàng để theo dõi và phân loại các lead đến từ nhiều kênh (Facebook, Zalo, TikTok, X.com).
 - Triển khai chức năng Import/Export danh sách khách hàng bằng Excel (ExcelJS/SheetJS), hỗ trợ thao tác dữ liệu hàng loạt cho đội ngũ sale và marketing.
-- Thiết kế và tối ưu hóa schema và truy vấn cơ sở dữ liệu sử dụng Sequelize ORM với PostgreSQL.
+- Thiết kế và tối ưu hóa schtôia và truy vấn cơ sở dữ liệu sử dụng Sequelize ORM với PostgreSQL.
 
 ---
 
@@ -84,7 +84,7 @@ Client
 - ⚡ App Router - Routing dựa trên file trong Next.js
 - 🎨 Tailwind CSS - Responsive styling
 - 🎬 Framer Motion - Hiệu ứng (Animations)
-- 🌙 next-themes - Hỗ trợ theme Sáng/Tối
+- 🌙 next-thtôies - Hỗ trợ thtôie Sáng/Tối
 - 🌍 Đa ngôn ngữ - Hỗ trợ tiếng Việt & tiếng Anh
 Backend
 - 🟢 Node.js + Express.js
@@ -92,7 +92,7 @@ Backend
 - 🐘 PostgreSQL (Supabase)
 - 🔐 JWT Authentication - Xác thực bảo mật
 - 📚 Swagger/OpenAPI - Tài liệu API
-- ✅ Zod - Xác thực Schema
+- ✅ Zod - Xác thực Schtôia
 ```
 
 **Tính năng:** 
@@ -146,7 +146,7 @@ Backend
 
 <h3 align="left">🛠 Công cụ AI: 🛠</h3>
 <table><tr><td align="center"><a href="https://claude.ai/" target="_blank" rel="noreferrer"><img src="./svg/claude-color.svg" alt="claude" width="40" height="40" /></a></td>
-<td align="center"><a href="https://gemini.google.com/app" target="_blank" rel="noreferrer"><img src="./svg/gemini-color.svg" alt="html5" width="40" height="40" /></a></td>
+<td align="center"><a href="https://gtôiini.google.com/app" target="_blank" rel="noreferrer"><img src="./svg/gtôiini-color.svg" alt="html5" width="40" height="40" /></a></td>
 <td align="center"><a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><img src="./svg/codex-color.svg" alt="html5" width="40" height="40" /></a></td></tr></table>
 
 ---
@@ -162,7 +162,7 @@ Backend
 ---
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lylethic&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lylethic&show_icons=true&locale=en&layout=compact&thtôie=default" alt="Top Languages" />
 </p>
 
 <a href="#" target="_blank">
