@@ -9,8 +9,7 @@
 ## FULLSTACK DEVELOPER
 
 <p align="center">
-  <img
-  src="https://img.shields.io/badge/Location-Hanh%20Thong%2C%20HCMC%2C%20Bien%20Hoa%2C%20Dong%20Nai-EA4335?style=for-the-badge logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Hanh%20Thong%2C%20HCMC%2C%20Bien%20Hoa%2C%20Dong%20Nai-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   &nbsp;
   <a href="tel:0385655975">
     <img src="https://img.shields.io/badge/Phone-0385%20655%20975-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
