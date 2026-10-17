@@ -9,7 +9,8 @@
 ## FULLSTACK DEVELOPER
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Hanh%20Thong%2C%20HCMC-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img
+  src="https://img.shields.io/badge/Location-Hanh%20Thong%2C%20HCMC%2C%20Bien%20Hoa%2C%20Dong%20Nai-EA4335?style=for-the-badge logo=googlemaps&logoColor=white"/>
   &nbsp;
   <a href="tel:0385655975">
     <img src="https://img.shields.io/badge/Phone-0385%20655%20975-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
@@ -25,7 +26,7 @@
 ---
 
 <p align="justify">
-Software developer with over 1 year of hands-on experience building E-commerce and CRM applications using C#, ASP.NET, Node/ExpressJS, and React/Next.js. Skilled in developing RESTful APIs, implementing business logic, and optimizing application performance on the .NET, Node.js, and Next.js platforms. Seeking to join as a Fullstack Developer, eager to learn new technologies to apply and deepen expertise on real-world systems, while growing professionally within a skilled team.
+Experienced Software Developer in building E-commerce and CRM applications, with full-stack development capabilities spanning Backend (C#/ASP.NET, Node.js/Express.js) and Frontend (React/Next.js, Desktop Applications). Proficient in designing RESTful APIs, implementing business logic, and optimizing system performance. Proactively leverage AI tools for code reviews, vulnerability detection, and enhancing software security and reliability. Seeking a Software IT Specialist position to contribute to digital transformation, improve internal system operations, and develop practical features aligned with real-world business needs.
 </p>
 
 ### EXPERIENCE
@@ -51,7 +52,28 @@ Software developer with over 1 year of hands-on experience building E-commerce a
 
 ---
 
-#### **_<a href="https://bimparts.vn" target="_blank">`Bimparts`</a>_** — Industrial Parts E-Commerce Platform (July 2025 - Present)
+#### **_<a href="https://tms.vietprodev.com" target="_blank">`MAIL CONNECTOR SERVICE - TMS ECOSYSTEM`</a>_** — Enterprise Mail Connector & Real-time Integration Service (TMS Ecosystem) (Aug 2025 - Now)
+
+<p align="justify">
+<b>Description:</b> An enterprise-grade email orchestration and synchronization subsystem integrated into the Talent Management System (TMS) ecosystem via a secure BFF/Gateway architecture. It enables distributed Gmail OAuth account management, high-throughput background synchronization, contextual email-to-entity linking (Candidate, Interview, Task), and real-time push notifications.
+</p>
+
+**Team Size:** 6 members (1 PM, 1 QC, 2 Front-End, 2 Back-End).
+
+**Technologies:** `.NET 9, .NET 8, Next.js 16 (App Router), React 19, TypeScript, PostgreSQL, Microsoft SQL Server, Hangfire, MinIO, Tailwind CSS, TanStack Query v5, Zustand, Shadcn UI, RESTful APIs, Webhooks (HMAC SHA-256), Google Workspace/Gmail APIs, Docker.`
+
+**Responsibilities:**
+
+<div align="justify">
+
+- Designed and implemented the integration boundary between tms-admin-be and mail-connector-service using HMAC SHA-256 signatures, centralized JWT claims-based authorization, and scoped tenant account isolation.
+- Eliminated unnecessary persistent storage overhead and memory spikes by streaming large email attachments on-demand directly from Gmail API/MinIO through ASP.NET Core pipelines to clients without buffering whole payloads in memory or saving redundant physical files.
+- Utilized Hangfire and event-driven background workers to process Gmail sync jobs, quota throttling, exponential backoff retries, and token refresh workflows without blocking main transactional request threads.
+- Developed domain logic and database abstractions mapping complex mail threads (MessageId) seamlessly to recruitment (Candidate, Interview) and project workflow (Task) entities with zero cross-service token leaks.
+
+</div>
+
+#### **_<a href="https://bimparts.vn" target="_blank">`Bimparts`</a>_** — Industrial Parts E-Commerce Platform (Jul 2025 - Otc 2026)
 
 <p align="justify">
 <b>Description:</b> A B2C e-commerce platform for BIM BIM Joint Stock Company, specializing in 10,000+ SKUs of forklift, tractor, and heavy machinery spare parts across Vietnam.
@@ -102,7 +124,7 @@ Software developer with over 1 year of hands-on experience building E-commerce a
 #### **_<a href="https://" target="_blank">`Social Pulse`</a>_** (Sep 2026)
 
 <p align="justify">
-<b>Description:</b> A centralized multi-platform social media analytics and AI-powered strategic insight platform that aggregates engagement metrics across YouTube, TikTok, Facebook, Instagram, and Threads. Features automated time-series metric tracking, audience sentiment analysis, scheduled background syncs, and multi-format reporting (Excel/PDF).
+<b>Description:</b> A centralized multi-platform social media analytics and AI-powered strategic insight platform that aggregates engagement metrics across YouTube, Facebook, Instagram, and Threads. Features automated time-series metric tracking, audience sentiment analysis, scheduled background syncs, and multi-format reporting (Excel/PDF).
 </p>
 
 **Technologies:**
@@ -116,7 +138,7 @@ Software developer with over 1 year of hands-on experience building E-commerce a
 
 <div align="justify">
 
-- Architected and developed end-to-end fullstack architecture connecting 5 social platforms **_(YouTube, TikTok, Facebook, Instagram, Threads)_** via OAuth 2.0 authorization flows and third-party REST Graph APIs.
+- Architected and developed end-to-end fullstack architecture connecting 5 social platforms **_(YouTube, Facebook, Instagram, Threads)_** via OAuth 2.0 authorization flows and third-party REST Graph APIs.
 - Implemented secure credential storage by applying Fernet symmetric encryption (AES-128) to encrypt OAuth access and refresh tokens at rest in PostgreSQL.
 - Engineered a distributed ingestion pipeline using Celery & Celery Beat to capture channel snapshots every 6 hours and update recent high-velocity post metrics every 2 hours, configured with exponential retries (max_retries=3).
 - Built a hybrid AI sentiment analysis engine integrating **_Groq LLM_** with an offline bilingual (EN/VI) lexicon fallback, classifying comments into 4 sentiment tiers (Positive, Neutral, Negative, Toxic/Spam) and extracting top trending discussion topics.

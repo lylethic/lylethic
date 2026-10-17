@@ -8,7 +8,7 @@
 ## FULLSTACK DEVELOPER
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-H%E1%BA%A1nh%20Th%C3%B4ng%2C%20TP.HCM-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Location-H%E1%BA%A1nh%20Th%C3%B4ng%2C%20TP.HCM%2C%20Bi%C3%AAn%20H%C3%B2a%2C%20%C4%90%E1%BB%93ng%20Nai-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
   &nbsp;
   <a href="tel:0385655975">
     <img src="https://img.shields.io/badge/Phone-0385%20655%20975-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
@@ -30,7 +30,7 @@
 ---
 
 <p align="justify">
-Lập trình viên với hơn 1 năm kinh nghiệm thực tế xây dựng các ứng dụng E-commerce và CRM sử dụng C#, ASP.NET, Node/ExpressJS và React/Next.js. Có thế mạnh trong phát triển RESTful API, triển khai logic nghiệp vụ và tối ưu hóa hiệu suất ứng dụng trên các nền tảng .NET, Node.js và Next.js. Mong muốn đảm nhận vị trí Fullstack Developer, sẵn sàng học hỏi các công nghệ mới nhằm áp dụng và nâng cao chuyên môn trên các hệ thống thực tế, đồng thời phát triển bản thân cùng một đội ngũ giàu kinh nghiệm.
+Lập trình viên có kinh nghiệm trong việc xây dựng ứng dụng E-commerce và CRM, có khả năng phát triển từ Backend (C#/ASP.NET, Node/ExpressJS) đến Frontend (React/Next.js, Desktop App). Nắm vững kỹ thuật xây dựng RESTful API, triển khai nghiệp vụ và tối ưu hiệu suất hệ thống. Chủ động ứng dụng AI để review code, phát hiện lỗ hổng và tăng cường bảo mật, ổn định cho phần mềm. Hướng tới vị trí Chuyên viên IT Phần mềm, mong muốn tham gia chuyển đổi số, vận hành hiệu quả hệ thống nội bộ và phát triển các tính năng sát nhu cầu thực tế của doanh nghiệp.
 </p>
 
 ### KINH NGHIỆM
@@ -56,7 +56,30 @@ Lập trình viên với hơn 1 năm kinh nghiệm thực tế xây dựng các 
 
 ---
 
-#### **_<a href="https://bimparts.vn" target="_blank">`Bimparts`</a>_** — Nền tảng Thương mại Điện tử Phụ tùng Công nghiệp (07/2025 - Nay)
+#### **_<a href="https://tms.vietprodev.com/" target="_blank">`MAIL CONNECTOR SERVICE - TMS ECOSYSTEM`</a>_** — HỆ THỐNG TÍCH HỢP HÒM THƯ DOANH NGHIỆP (08/2025 - Nay)
+
+<p align="justify">
+<b>Mô tả:</b> Hệ thống tích hợp và đồng bộ email đa nền tảng cho TMS theo kiến trúc BFF/Gateway bảo mật, hỗ trợ kết nối
+Gmail qua OAuth, đồng bộ nền hiệu năng cao, liên kết email với nghiệp vụ nhân sự và gửi thông báo thời gian thực.
+</p>
+
+**Quy mô nhóm:** 6 thành viên (1 PM, 1 QC, 2 Front-End, 2 Back-End).
+
+**Công nghệ:** ` .NET 9, .NET 8, Next.js 16 (App Router), React 19, TypeScript, PostgreSQL, Microsoft SQL Server, Hangfire, MinIO, Tailwind CSS, TanStack Query v5, Zustand, Shadcn UI, RESTful APIs, Webhooks (HMAC SHA-256), Google Workspace/Gmail APIs, Docker.`
+
+**Trách nhiệm:**
+
+<div align="justify">
+
+- Xây dựng cầu nối tích hợp an toàn giữa tms-admin-be và mail-connector-service, bảo vệ bằng xác thực JWT nội bộ, mã hóa chữ ký số HMAC SHA-256 cho Webhook và cô lập tài khoản theo phiên đăng nhập.
+- Triển khai Background Workers xử lý các tác vụ đồng bộ email, điều phối hạn ngạch gọi Google API (rate limiting), tự động refresh token và cơ chế retry lũy thừa (exponential backoff) mà không gây ảnh hưởng đến luồng giao dịch
+chính.
+- Xây dựng endpoint tiếp nhận Webhook bất đồng bộ, kiểm tra tính toàn vẹn dữ liệu qua chữ ký số, cập nhật tức thì trạng thái hòm thư và đẩy thông báo realtime (SSE/SignalR) xuống giao diện người dùng.
+- Thiết kế cấu trúc dữ liệu và logic ánh xạ linh hoạt giữa luồng email (Message) với các thực thể nghiệp vụ cốt lõi (Ứng viên tuyển dụng, Buổi phỏng vấn, Task công việc) mà vẫn bảo mật tuyệt đối thông tin xác thực Google.
+
+</div>
+
+#### **_<a href="https://bimparts.vn" target="_blank">`Bimparts`</a>_** — Nền tảng Thương mại Điện tử Phụ tùng Công nghiệp (07/2025 - 10/2026)
 
 <p align="justify">
 <b>Mô tả:</b> Nền tảng thương mại điện tử B2C cho Công ty Cổ phần BIM BIM, chuyên cung cấp hơn 10.000+ SKU phụ tùng xe nâng, máy kéo và máy móc hạng nặng trên toàn Việt Nam.
@@ -107,7 +130,7 @@ Lập trình viên với hơn 1 năm kinh nghiệm thực tế xây dựng các 
 #### **_<a href="https://" target="_blank">`Social Pulse`</a>_** (09/2026)
 
 <p align="justify">
-<b>Mô tả:</b> Nền tảng phân tích số liệu mạng xã hội đa nền tảng tập trung và cung cấp insight chiến lược được hỗ trợ bởi AI, tổng hợp các chỉ số tương tác từ YouTube, TikTok, Facebook, Instagram và Threads. Bao gồm các tính năng theo dõi chỉ số chuỗi thời gian tự động, phân tích cảm xúc (sentiment) của người xem, đồng bộ nền theo lịch trình và xuất báo cáo đa định dạng (Excel/PDF).
+<b>Mô tả:</b> Nền tảng phân tích số liệu mạng xã hội đa nền tảng tập trung và cung cấp insight chiến lược được hỗ trợ bởi AI, tổng hợp các chỉ số tương tác từ YouTube, Facebook, Instagram và Threads. Bao gồm các tính năng theo dõi chỉ số chuỗi thời gian tự động, phân tích cảm xúc (sentiment) của người xem, đồng bộ nền theo lịch trình và xuất báo cáo đa định dạng (Excel/PDF).
 </p>
 
 **Công nghệ:**
@@ -121,7 +144,7 @@ Lập trình viên với hơn 1 năm kinh nghiệm thực tế xây dựng các 
 
 <div align="justify">
 
-- Thiết kế kiến trúc và phát triển toàn diện (end-to-end fullstack) kết nối 5 nền tảng mạng xã hội **_(YouTube, TikTok, Facebook, Instagram, Threads)_** qua quy trình ủy quyền OAuth 2.0 và các REST Graph API của bên thứ ba.
+- Thiết kế kiến trúc và phát triển toàn diện (end-to-end fullstack) kết nối 5 nền tảng mạng xã hội **_(YouTube, Facebook, Instagram, Threads)_** qua quy trình ủy quyền OAuth 2.0 và các REST Graph API của bên thứ ba.
 - Triển khai lưu trữ thông tin xác thực an toàn bằng mã hóa đối xứng Fernet (AES-128) để mã hóa access token và refresh token OAuth khi lưu trữ trong PostgreSQL.
 - Xây dựng luồng thu thập dữ liệu phân tán (distributed ingestion pipeline) bằng Celery & Celery Beat để chụp snapshot kênh mỗi 6 giờ và cập nhật chỉ số các bài viết mới có độ tương tác cao mỗi 2 giờ, cấu hình cơ chế thử lại lũy thừa (exponential retries, max_retries=3).
 - Xây dựng công cụ phân tích cảm xúc kết hợp AI tích hợp **_Groq LLM_** cùng từ điển song ngữ (Anh/Việt) ngoại tuyến dự phòng, phân loại bình luận theo 4 mức độ cảm xúc (Tích cực, Trung tính, Tiêu cực, Độc hại/Spam) và trích xuất các chủ đề thảo luận thịnh hành nhất.
