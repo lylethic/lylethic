@@ -37,7 +37,7 @@ Lập trình viên có kinh nghiệm trong việc xây dựng ứng dụng E-com
 
 ---
 
-#### Công ty TNHH Phần mềm VietProDev (L5-5, Khu dân cư Phú Gia 2, Đồng Nai) &nbsp;|&nbsp;**Fullstack Developer** &nbsp;|&nbsp; 05/2025 - 09/2026
+#### Công ty TNHH Phần mềm VietProDev (L5-5, Khu dân cư Phú Gia 2, Đồng Nai) &nbsp;|&nbsp;**Fullstack Developer** &nbsp;|&nbsp; 05/2025 - 11/2026
 
 <div align="justify">
 
