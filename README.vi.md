@@ -30,7 +30,7 @@
 ---
 
 <p align="justify">
-Lập trình viên có kinh nghiệm trong việc xây dựng ứng dụng E-commerce và CRM, có khả năng phát triển từ Backend (C#/ASP.NET, Node/ExpressJS) đến Frontend (React/Next.js, Desktop App). Nắm vững kỹ thuật xây dựng RESTful API, triển khai nghiệp vụ và tối ưu hiệu suất hệ thống. Chủ động ứng dụng AI để review code, phát hiện lỗ hổng và tăng cường bảo mật, ổn định cho phần mềm. Hướng tới vị trí Chuyên viên IT Phần mềm, mong muốn tham gia chuyển đổi số, vận hành hiệu quả hệ thống nội bộ và phát triển các tính năng sát nhu cầu thực tế của doanh nghiệp.
+Lập trình viên có kinh nghiệm trong việc xây dựng ứng dụng E-commerce và CRM, có khả năng phát triển từ Backend (C#/ASP.NET, Node/ExpressJS) đến Frontend (React/Next.js, Desktop App). Nắm vững kỹ thuật xây dựng RESTful API, triển khai nghiệp vụ và tối ưu hiệu suất hệ thống. Chủ động ứng dụng AI để review code, phát hiện lỗ hổng và tăng cường bảo mật, ổn định cho phần mềm. Hướng tới vị trí Software Developer, mong muốn tham gia chuyển đổi số, vận hành hiệu quả hệ thống nội bộ và phát triển các tính năng sát nhu cầu thực tế của doanh nghiệp.
 </p>
 
 ### KINH NGHIỆM
