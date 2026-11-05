@@ -25,7 +25,7 @@
 ---
 
 <p align="justify">
-Experienced Software Developer in building E-commerce and CRM applications, with full-stack development capabilities spanning Backend (C#/ASP.NET, Node.js/Express.js) and Frontend (React/Next.js, Desktop Applications). Proficient in designing RESTful APIs, implementing business logic, and optimizing system performance. Proactively leverage AI tools for code reviews, vulnerability detection, and enhancing software security and reliability. Seeking a Software IT Specialist position to contribute to digital transformation, improve internal system operations, and develop practical features aligned with real-world business needs.
+Experienced Software Developer in building E-commerce and CRM applications, with full-stack development capabilities spanning Backend (C#/ASP.NET, Node.js/Express.js) and Frontend (React/Next.js, Desktop Applications). Proficient in designing RESTful APIs, implementing business logic, and optimizing system performance. Proactively leverage AI tools for code reviews, vulnerability detection, and enhancing software security and reliability. Seeking a Software Developer position to contribute to digital transformation, improve internal system operations, and develop practical features aligned with real-world business needs.
 </p>
 
 ### EXPERIENCE
