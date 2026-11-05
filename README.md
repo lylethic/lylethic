@@ -32,7 +32,7 @@ Experienced Software Developer in building E-commerce and CRM applications, with
 
 ---
 
-#### VietProDev Software Co., Ltd (L5-5, Phu Gia 2 Residential Area, Dong Nai) &nbsp;|&nbsp;**Fullstack Developer** &nbsp;|&nbsp; May 2025 - Sep 2026
+#### VietProDev Software Co., Ltd (L5-5, Phu Gia 2 Residential Area, Dong Nai) &nbsp;|&nbsp;**Fullstack Developer** &nbsp;|&nbsp; May 2025 - Nov 2026
 
 <div align="justify">
 
