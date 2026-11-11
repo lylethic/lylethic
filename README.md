@@ -48,31 +48,7 @@ Experienced Software Developer in building E-commerce and CRM applications, with
 **Technologies:** `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, ORM, Git, Gitlab CI/CD, Postman...`
 
 ### PROJECTS
-
----
-
-#### **_<a href="https://tms.vietprodev.com" target="_blank">`MAIL CONNECTOR SERVICE - TMS ECOSYSTEM`</a>_** — Enterprise Mail Connector & Real-time Integration Service (TMS Ecosystem) (Aug 2025 - Now)
-
-<p align="justify">
-<b>Description:</b> An enterprise-grade email orchestration and synchronization subsystem integrated into the Talent Management System (TMS) ecosystem via a secure BFF/Gateway architecture. It enables distributed Gmail OAuth account management, high-throughput background synchronization, contextual email-to-entity linking (Candidate, Interview, Task), and real-time push notifications.
-</p>
-
-**Team Size:** 6 members (1 PM, 1 QC, 2 Front-End, 2 Back-End).
-
-**Technologies:** `.NET 9, .NET 8, Next.js 16 (App Router), React 19, TypeScript, PostgreSQL, Microsoft SQL Server, Hangfire, MinIO, Tailwind CSS, TanStack Query v5, Zustand, Shadcn UI, RESTful APIs, Webhooks (HMAC SHA-256), Google Workspace/Gmail APIs, Docker.`
-
-**Responsibilities:**
-
-<div align="justify">
-
-- Designed and implemented the integration boundary between tms-admin-be and mail-connector-service using HMAC SHA-256 signatures, centralized JWT claims-based authorization, and scoped tenant account isolation.
-- Eliminated unnecessary persistent storage overhead and memory spikes by streaming large email attachments on-demand directly from Gmail API/MinIO through ASP.NET Core pipelines to clients without buffering whole payloads in memory or saving redundant physical files.
-- Utilized Hangfire and event-driven background workers to process Gmail sync jobs, quota throttling, exponential backoff retries, and token refresh workflows without blocking main transactional request threads.
-- Developed domain logic and database abstractions mapping complex mail threads (MessageId) seamlessly to recruitment (Candidate, Interview) and project workflow (Task) entities with zero cross-service token leaks.
-
-</div>
-
-#### **_<a href="https://bimparts.vn" target="_blank">`Bimparts`</a>_** — Industrial Parts E-Commerce Platform (Jul 2025 - Otc 2026)
+#### **_<a href="https://bimparts.vn" target="_blank">`Bimparts`</a>_** — Industrial Parts E-Commerce Platform (Jul 2025 - Now)
 
 <p align="justify">
 <b>Description:</b> A B2C e-commerce platform for BIM BIM Joint Stock Company, specializing in 10,000+ SKUs of forklift, tractor, and heavy machinery spare parts across Vietnam.
@@ -90,6 +66,30 @@ Experienced Software Developer in building E-commerce and CRM applications, with
 - Built RESTful APIs for shopping cart and checkout workflows, including cart persistence, stock validation, and order confirmation logic.
 - Designed and optimized the relational database schema for product, inventory, order, and customer data; applied indexing strategies to support high-volume catalog queries.
 - Applied technical performance improvements — query optimization and caching strategies — contributing to faster page load times and improved SEO-readiness of product pages.
+
+</div>
+
+
+---
+
+#### **_<a href="https://tms.vietprodev.com" target="_blank">`MAIL CONNECTOR SERVICE - TMS ECOSYSTEM`</a>_** — Enterprise Mail Connector & Real-time Integration Service (TMS Ecosystem) (Aug 2025 - Nov 2026)
+
+<p align="justify">
+<b>Description:</b> An enterprise-grade email orchestration and synchronization subsystem integrated into the Talent Management System (TMS) ecosystem via a secure BFF/Gateway architecture. It enables distributed Gmail OAuth account management, high-throughput background synchronization, contextual email-to-entity linking (Candidate, Interview, Task), and real-time push notifications.
+</p>
+
+**Team Size:** 6 members (1 PM, 1 QC, 2 Front-End, 2 Back-End).
+
+**Technologies:** `.NET 9, .NET 8, Next.js 16 (App Router), React 19, TypeScript, PostgreSQL, Microsoft SQL Server, Hangfire, MinIO, Tailwind CSS, TanStack Query v5, Zustand, Shadcn UI, RESTful APIs, Webhooks (HMAC SHA-256), Google Workspace/Gmail APIs, Docker.`
+
+**Responsibilities:**
+
+<div align="justify">
+
+- Designed and implemented the integration boundary between tms-admin-be and mail-connector-service using HMAC SHA-256 signatures, centralized JWT claims-based authorization, and scoped tenant account isolation.
+- Eliminated unnecessary persistent storage overhead and memory spikes by streaming large email attachments on-demand directly from Gmail API/MinIO through ASP.NET Core pipelines to clients without buffering whole payloads in memory or saving redundant physical files.
+- Utilized Hangfire and event-driven background workers to process Gmail sync jobs, quota throttling, exponential backoff retries, and token refresh workflows without blocking main transactional request threads.
+- Developed domain logic and database abstractions mapping complex mail threads (MessageId) seamlessly to recruitment (Candidate, Interview) and project workflow (Task) entities with zero cross-service token leaks.
 
 </div>
 
