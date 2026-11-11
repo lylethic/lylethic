@@ -53,10 +53,7 @@ Lập trình viên có kinh nghiệm trong việc xây dựng ứng dụng E-com
 **Công nghệ:** `C#, ASP.NET Core, Node.js (Express.js), SQL Server, PostgreSQL, Socket.io, ORM, Git, Gitlab CI/CD, Postman...`
 
 ### DỰ ÁN
-
----
-
-#### **_<a href="https://tms.vietprodev.com/" target="_blank">`MAIL CONNECTOR SERVICE - TMS ECOSYSTEM`</a>_** — HỆ THỐNG TÍCH HỢP HÒM THƯ DOANH NGHIỆP (08/2025 - Nay)
+#### **_<a href="https://tms.vietprodev.com/" target="_blank">`MAIL CONNECTOR SERVICE - TMS ECOSYSTEM`</a>_** — HỆ THỐNG TÍCH HỢP HÒM THƯ DOANH NGHIỆP (08/2025 - Now)
 
 <p align="justify">
 <b>Mô tả:</b> Hệ thống tích hợp và đồng bộ email đa nền tảng cho TMS theo kiến trúc BFF/Gateway bảo mật, hỗ trợ kết nối
@@ -78,6 +75,8 @@ chính.
 - Thiết kế cấu trúc dữ liệu và logic ánh xạ linh hoạt giữa luồng email (Message) với các thực thể nghiệp vụ cốt lõi (Ứng viên tuyển dụng, Buổi phỏng vấn, Task công việc) mà vẫn bảo mật tuyệt đối thông tin xác thực Google.
 
 </div>
+
+---
 
 #### **_<a href="https://bimparts.vn" target="_blank">`Bimparts`</a>_** — Nền tảng Thương mại Điện tử Phụ tùng Công nghiệp (07/2025 - 10/2026)
 
